@@ -4,7 +4,7 @@
 >
 > **Course:** Redes de Computadores ([RCOM](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436445)) | Computer Networks
 >
-> **Projects developed by:** Diogo Machado ([diogosmac](https://github.com/diogosmac)), Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)) and José Guerra ([LockDownPT](https://github.com/lockdownpt))
+> **Projects developed by:** Diogo Machado ([diogosmac](https://github.com/diogosmac)), Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)) and José Guerra ([JoeWar99](https://github.com/joewar99))
 >
 > **Project 1 Grade**: 18 / 20
 >
